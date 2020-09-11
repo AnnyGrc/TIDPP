@@ -1,0 +1,43 @@
+commit fef89b7e998202cdbd8a736884cfed446694ea95 (HEAD -> master, origin/master)
+Author: Goriuc Anastasia TI-185
+Date:   Fri Sep 11 19:05:15 2020 +0300
+
+    papka laboratoria
+
+commit fe3663e748e67f7bc73a6ccd7ab681762a1d9ffc
+Merge: ddd7ddd e0b33e1
+Author: Goriuc Anastasia TI-185
+Date:   Fri Sep 11 19:00:19 2020 +0300
+
+    second merge
+
+commit ddd7dddd771f7e5db50f654696b2b183707febca
+Merge: 516ce1e 9b9b4de
+Author: Goriuc Anastasia TI-185
+Date:   Fri Sep 11 18:58:45 2020 +0300
+
+    first merge
+
+commit e0b33e17ce1e27b1f81475f20374cad57abbf699 (origin/sha-3, sha-3)
+Author: Goriuc Anastasia TI-185
+Date:   Fri Sep 11 18:54:17 2020 +0300
+
+    third
+
+commit 9b9b4de02a250e6511a28bf15903f1f65c758230 (origin/sha-2, sha-2)
+Author: Goriuc Anastasia TI-185
+Date:   Fri Sep 11 18:52:13 2020 +0300
+
+    second
+
+commit 516ce1eb7a131149fd147e97adde12cdb8604948 (origin/sha-1, sha-1)
+Author: Goriuc Anastasia TI-185
+Date:   Fri Sep 11 18:48:16 2020 +0300
+
+    first
+
+commit 5dcdaa400b631e1cf2c12e7d9e6ec9e396e8464d (origin/sha-5, origin/sha-4, sha-5, sha-4)
+Author: Goriuc Anastasia TI-185
+Date:   Fri Sep 11 18:42:48 2020 +0300
+
+    Dobablenie failov v repozitorii
